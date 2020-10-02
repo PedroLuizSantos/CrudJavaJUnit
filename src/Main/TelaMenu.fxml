@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="BtnSalvar" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onDragDetected="#BtnMostra" prefHeight="263.0" prefWidth="341.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Principal.ControllerMenu">
+   <children>
+      <Label layoutX="38.0" layoutY="46.0" text="Nome:" />
+      <TextField fx:id="textName" layoutX="81.0" layoutY="42.0" prefHeight="25.0" prefWidth="67.0" />
+      <Button layoutX="81.0" layoutY="79.0" mnemonicParsing="false" text="Cadastrar" />
+   </children>
+</AnchorPane>

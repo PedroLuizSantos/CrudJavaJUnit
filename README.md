@@ -1,2 +1,2 @@
-# CrudJavaJUnit
-Prova de Programação Java, Adicionado JUnit.
+# Crud Java
+Prova de Programação Java.
